@@ -1,0 +1,114 @@
+\begin{thebibliography}{xx}
+
+\harvarditem[Acharya et~al.]{Acharya, Engle \harvardand\
+  Richardson}{2012}{acharya2}
+Acharya, V.~V., Engle, R. \harvardand\ Richardson, M.  \harvardyearleft
+  2012\harvardyearright , `Capital shortfall: A new approach to ranking and
+  regulating systemic risks', {\em American Economic Review} {\bf
+  102(3)},~59--64.
+
+\harvarditem[Acharya et~al.]{Acharya, Pedersen, Philippon \harvardand\
+  Richardson}{2010}{acharya1}
+Acharya, V.~V., Pedersen, L.~H., Philippon, T. \harvardand\ Richardson, M.
+  \harvardyearleft 2010\harvardyearright , `Measuring systemic risk', {\em
+  {people.stern.nyu.edu/lpederse/papers/MeasuringSystemicRisk.pdf}} .
+
+\harvarditem{Adrian \harvardand\ Brunnermeier}{2016}{adrian}
+Adrian, T. \harvardand\ Brunnermeier, M.~K.  \harvardyearleft
+  2016\harvardyearright , `{C}o{V}a{R}', {\em American Economic Review} {\bf
+  106(7)},~1705--1741.
+
+\harvarditem[Banulescu et~al.]{Banulescu, Hurlin, Leymarie \harvardand\
+  Scaillet}{2016}{mesbacktest}
+Banulescu, D., Hurlin, C., Leymarie, J. \harvardand\ Scaillet, O.
+  \harvardyearleft 2016\harvardyearright , `Backtesting marginal expected
+  shortfall and related systemic risk measures'.
+
+\harvarditem{{Basel Comittee on Banking Supervision}}{2009b}{baselii}
+{Basel Comittee on Banking Supervision}  \harvardyearleft
+  2009b\harvardyearright , `Revisions to the {B}asel {II} market risk
+  framework', {\em Bank for {I}nternational {S}ettlements} .
+
+\harvarditem[Bernardi et~al.]{Bernardi, Gayraud \harvardand\
+  Petrella}{2013}{bayesian}
+Bernardi, M., Gayraud, G. \harvardand\ Petrella, L.  \harvardyearleft
+  2013\harvardyearright , `{Bayesian Inference for CoVaR}', {\em
+  {http://arxiv.org/abs/1306.2834}} .
+
+\harvarditem[Billio et~al.]{Billio, Getmansky, Lo \harvardand\
+  Pelizzon}{2012}{billio}
+Billio, M., Getmansky, M., Lo, A.~W. \harvardand\ Pelizzon, L.
+  \harvardyearleft 2012\harvardyearright , `Econometric measures of
+  connectedness and systemic risk in the finance and insurance sectors', {\em
+  Journal of Financial Economics} {\bf 104(3)},~535--559.
+
+\harvarditem{Bradley \harvardand\ Taqqu}{2001}{bradley}
+Bradley, B.~O. \harvardand\ Taqqu, M.~S.  \harvardyearleft
+  2001\harvardyearright , `Financial risk and heavy tails', {\em Boston
+  University} .
+
+\harvarditem{Christoffersen}{1998}{christoffersen}
+Christoffersen, P.~F.  \harvardyearleft 1998\harvardyearright , `Evaluating
+  interval forecasts', {\em International Economic Review} {\bf
+  39(4)},~841--862.
+
+\harvarditem[Dumitrescu et~al.]{Dumitrescu, Hurlin \harvardand\
+  Pham}{2012}{nonlineartest}
+Dumitrescu, E., Hurlin, C. \harvardand\ Pham, V.  \harvardyearleft
+  2012\harvardyearright , `Backtesting {V}alue at {R}isk: From dynamic quantile
+  to dynamic binary tests', {\em Presses universitaires de Grenoble} {\bf
+  33(1)},~79--112.
+
+\harvarditem{Engle \harvardand\ Manganelli}{2004}{engle}
+Engle, R. \harvardand\ Manganelli, S.  \harvardyearleft 2004\harvardyearright ,
+  `{CAViaR: Conditional Autoregressive Value at Risk by Regression Quantiles}',
+  {\em Journal of Business \& Economic Statistics} {\bf 22},~367--381.
+
+\harvarditem{Girardi \harvardand\ Erg{\"u}n}{2013}{girardi}
+Girardi, G. \harvardand\ Erg{\"u}n, A.~T.  \harvardyearleft
+  2013\harvardyearright , `Systemic risk measurement: {M}ultivariate {GARCH}
+  estimation of {C}o{V}a{R}', {\em Journal of Banking \& Finance} {\bf
+  37},~3169--3180.
+
+\harvarditem[Gloston et~al.]{Gloston, Jagannathan \harvardand\
+  Runkle}{1993}{gloston}
+Gloston, L., Jagannathan, R. \harvardand\ Runkle, D.  \harvardyearleft
+  1993\harvardyearright , `On the relation between the expected value and the
+  volatility of the nominal excess return on stocks', {\em The Journal of
+  Finance} {\bf 48},~1779--1801.
+
+\harvarditem{Hansen}{1994}{hansen}
+Hansen, B.  \harvardyearleft 1994\harvardyearright , `Autoregressive
+  conditional density estimation', {\em International Economic Review} {\bf
+  35},~705--730.
+
+\harvarditem[Huang et~al.]{Huang, Zhou \harvardand\ Zhu}{2012}{huang}
+Huang, X., Zhou, H. \harvardand\ Zhu, H.  \harvardyearleft
+  2012\harvardyearright , `Systemic risk contributions', {\em Journal of
+  Financial Services Research} {\bf 42(1-2)},~55--83.
+
+\harvarditem{Koenker \harvardand\ Bassett}{1978}{koenker}
+Koenker, R.~W. \harvardand\ Bassett, G.  \harvardyearleft 1978\harvardyearright
+  , `Regression quantiles', {\em Econometrica} {\bf 46(1)},~33--50.
+
+\harvarditem{Kotz \harvardand\ Nadarajah}{2004}{multit}
+Kotz, S. \harvardand\ Nadarajah, S.  \harvardyearleft 2004\harvardyearright ,
+  `Multivariate t distributions and their applications', {\em Cambridge
+  University Press} .
+
+\harvarditem{Mainik \harvardand\ Schaanning}{2012}{copulas}
+Mainik, G. \harvardand\ Schaanning, E.  \harvardyearleft 2012\harvardyearright
+  , `On dependence consistency of {C}o{V}a{R} and some other systemic risk
+  measures', {\em Working paper, ETH Zürich.} .
+
+\harvarditem{Relbanks}{2017}{list}
+Relbanks  \harvardyearleft 2017\harvardyearright , `Top {US} banks by market
+  capitalization', {\em {http://www.relbanks.com/top-us-banks/market-cap}} .
+
+\harvarditem{Wikinvest}{2008}{indexlist}
+Wikinvest  \harvardyearleft 2008\harvardyearright , `Dow {Jones U.S.General
+  Financial Index (DJUSFN)}', {\em
+  {http://www.wikinvest.com/index/Dow\_Jones\_U.S.General\_Financial\_Index\_(DJUSFN)}}
+  .
+
+\end{thebibliography}

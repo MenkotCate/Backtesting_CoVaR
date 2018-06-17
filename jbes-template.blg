@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: jbes-template.aux
+The style file: agsm.bst
+Database file #1: Bibliography-MM-MC.bib
+You've used 20 entries,
+            2909 wiz_defined-function locations,
+            750 strings with 7415 characters,
+and the built_in function-call counts, 86190 in all, are:
+= -- 14134
+> -- 1072
+< -- 0
++ -- 6726
+- -- 322
+* -- 7468
+:= -- 17285
+add.period$ -- 20
+call.type$ -- 20
+change.case$ -- 280
+chr.to.int$ -- 20
+cite$ -- 20
+duplicate$ -- 311
+empty$ -- 619
+format.name$ -- 398
+if$ -- 15449
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 63
+num.names$ -- 208
+pop$ -- 72
+preamble$ -- 1
+purify$ -- 300
+quote$ -- 0
+skip$ -- 269
+stack$ -- 0
+substring$ -- 19999
+swap$ -- 50
+text.length$ -- 280
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 80
+warning$ -- 0
+while$ -- 442
+width$ -- 0
+write$ -- 257
